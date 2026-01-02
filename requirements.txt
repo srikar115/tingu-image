@@ -1,0 +1,5 @@
+runpod
+torch
+diffusers
+transformers
+accelerate
